@@ -1,0 +1,15 @@
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.AssemblyInfoInputs.cache
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.AssemblyInfo.cs
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.sourcelink.json
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\bin\Debug\net9.0\14-CSharp-Basics.exe
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\bin\Debug\net9.0\14-CSharp-Basics.deps.json
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\bin\Debug\net9.0\14-CSharp-Basics.runtimeconfig.json
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\bin\Debug\net9.0\14-CSharp-Basics.dll
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\bin\Debug\net9.0\14-CSharp-Basics.pdb
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.dll
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\refint\14-CSharp-Basics.dll
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.pdb
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\14-CSharp-Basics.genruntimeconfig.cache
+C:\Users\goven\Desktop\Astel\14-CSharp-Basics\obj\Debug\net9.0\ref\14-CSharp-Basics.dll
